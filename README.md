@@ -7,5 +7,6 @@ This project is not intended to be an exhaustive demonstration of the Csound iOS
 
 ## Links
 
-[Download Csound](http://csound.github.io/download)
-[Csound Sources](https://github.com/csound/csound)
+- [Csound](http://csound.github.io/)
+- [Csound Manual](http://csound.github.io/docs/manual/)
+- [Csound Sources](https://github.com/csound/csound)
