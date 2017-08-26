@@ -41,7 +41,7 @@ class ViewController: UIViewController {
         csoundUI = CsoundUI(csoundObj: csound)
 
         csoundUI.add(levelSlider, forChannelName:"amp") // Bind to a UISlider
-        csound.play(Bundle.main.path(forResource:"swiftSynth", ofType: "csd")) // Play .csd
+        csound.play(Bundle.main.path(forResource:"csoundSynth", ofType: "csd")) // Play .csd
         
         keyboardView.keyboardDelegate = self
         didSelectSigtype(sinButton)
